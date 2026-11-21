@@ -1,0 +1,6 @@
+{
+  "name": "DomainFlow — Tiện Ích Tự Động Chuyển Hướng Domain Chính",
+  "description": "Công cụ tạo quy tắc, mã nhúng JS, cấu hình Server (Nginx, Apache, Cloudflare) và tiện ích trình duyệt giúp tự động chuyển hướng mọi đường dẫn phụ hoặc tên miền vệ tinh về domain chính.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
